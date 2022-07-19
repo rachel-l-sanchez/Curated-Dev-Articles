@@ -34,4 +34,4 @@
 # Free Books
 - <a href = "https://github.com/MarkPThomas/HeadFirst-OOAD/blob/master/Head%20First%20Object-Oriented%20Analysis%20and%20Design.pdf"> Head First Object-Oriented Analysis and Design></a>
 
-- <a href = "#">Grokking Algorithms></a>
+- <a href ="https://github.com/rachel-l-sanchez/Curated-Dev-Articles/blob/9323cad4f79ae01c3f386eee81064d3be6315305/grokking-algorithms-illustrated-programmers-curious.pdf">Grokking Algorithms</a>
