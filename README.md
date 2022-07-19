@@ -1,19 +1,26 @@
 <h1> A curated list of informational dev articles, books and how to's.</h1>
 
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/MT5UUV1d4CXE2A37Dg" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/Giflytics-MT5UUV1d4CXE2A37Dg">via GIPHY</a></p>
-
 # Articles
 <h2> GitHub related </h2>
-- <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme"> Awesome GitHub profile ReadMEs</a>
 
-<h2> Languages and Frameworks </h2>
-<h3>Python</h3>
-<h4> Web Scrapers</h4>
+- <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme">Awesome GitHub profile ReadMEs</a>
+
+- <a href="https://community.codenewbie.org/yuridevat/how-to-create-a-stunning-github-profile-1222">How to create a stunning GitHub Profile</a>
+
+- <a href="https://www.geeksforgeeks.org/top-10-useful-github-repos-that-every-developer-should-follow/">Top 10 Useful GitHub Repos That Every Developer Should Follow</a>
+
+- <a href="https://hackernoon.com/10-github-repositories-to-follow-9t1g35y1">10 GitHub Repositories to Follow</a>
+
+<h2> Web Scrapers</h2>
 -<a href="https://realpython.com/beautiful-soup-web-scraper-python/">Beautiful Soup: Build a Web Scraper With Python</a>
-<h3>MERN</h3>
-<h3>Java</h3>
-<h3>C#</h3>
-<h3>Javascript</h3>
+
+- <a href="https://www.freecodecamp.org/news/web-scraping-python-tutorial-how-to-scrape-data-from-a-website/">Web Scraping Python Tutorial – How to Scrape Data From A Website</a>
+
+-<a href="https://www.kdnuggets.com/2022/02/build-web-scraper-python-5-minutes.html">Build a Web Scraper with Python in 5 Minutes</a>
+
+<h4>Artificial Intelligence</h4>
+<h2>Projects</h2>
+-<a href="https://betterprogramming.pub/7-advanced-projects-to-improve-your-programming-skills-f05d7875104">7 Advanced Projects to Improve Your Programming Skills</a>
 
 # Networking and Job Search
 <h3> A little bit of this and development</h3>
@@ -34,6 +41,14 @@
 
 
 # Free Books
+<h2>Design</h2>
 - <a href = "https://github.com/MarkPThomas/HeadFirst-OOAD/blob/master/Head%20First%20Object-Oriented%20Analysis%20and%20Design.pdf"> Head First Object-Oriented Analysis and Design></a>
+
+<h2>Artificial Intelligence</h2>
+-<a href="https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots/releases">Introduction to Autonomous Robots</a>
+
+- <a href="https://artint.info/">ARTIFICIAL INTELLIGENCE 2E: FOUNDATIONS OF COMPUTATIONAL AGENTS</a>
+
+- <a href="https://artint.info/aifca1e.html">ARTIFICIAL INTELLIGENCE 1E FOUNDATIONS OF COMPUTATIONAL AGENTS</a>
 
 - <a href ="https://github.com/rachel-l-sanchez/Curated-Dev-Articles/blob/9323cad4f79ae01c3f386eee81064d3be6315305/grokking-algorithms-illustrated-programmers-curious.pdf">Grokking Algorithms</a>
