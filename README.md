@@ -1,5 +1,7 @@
 <h1> A curated list of informational dev articles, books and how to's.</h1>
 
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/MT5UUV1d4CXE2A37Dg" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/Giflytics-MT5UUV1d4CXE2A37Dg">via GIPHY</a></p>
+
 # Articles
 <h2> GitHub related </h2>
 - <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme"> Awesome GitHub profile ReadMEs</a>
