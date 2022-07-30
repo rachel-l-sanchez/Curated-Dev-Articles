@@ -41,8 +41,16 @@
 
 
 # Free Books
+- <a href = "https://github.com/MarkPThomas/HeadFirst-OOAD/blob/master/Head%20First%20Object-Oriented%20Analysis%20and%20Design.pdf"> Head First Object-Oriented Analysis and Design</a>
+- <a href="https://www.freetechbooks.com/dont-panic-mobile-developers-guide-to-the-galaxy-17th-edition-t1343.html" alt=Don't Panic Mobile Developer's guide to the galaxy>Don't Panic Mobile Developer's guide to the galaxy</a>
+- <a href="https://www.syncfusion.com/succinctly-free-ebooks/nodejs" alt="Node.Js Succintly">Node.js Succintly</a>
+- <a href="https://eloquentjavascript.net/" alt="Eloquent Javascript">Eloquent Javascript</a>
+- <a href="https://archive.org/details/2018LearnProgramming">Learn Programming: Your Guided Tour Through the Programming Jungle</a>
+- <a href="https://divakarvi.github.io/bk-spca/spca.html" alt ="Scientific Programming and Computer Architecture">Scientific Programming and Computer Architecture</a>
+- <a href="https://www.learnenough.com/git-tutorial/getting_started" alt="Learn enough Git to be Dangerous">Learn enough Git to be dangerous</a>
+
 <h2>Design</h2>
-- <a href = "https://github.com/MarkPThomas/HeadFirst-OOAD/blob/master/Head%20First%20Object-Oriented%20Analysis%20and%20Design.pdf"> Head First Object-Oriented Analysis and Design></a>
+
 
 <h2>Artificial Intelligence</h2>
 -<a href="https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots/releases">Introduction to Autonomous Robots</a>
