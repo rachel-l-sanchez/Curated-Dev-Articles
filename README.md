@@ -42,7 +42,7 @@
 
 # Free Books
 - <a href = "https://github.com/MarkPThomas/HeadFirst-OOAD/blob/master/Head%20First%20Object-Oriented%20Analysis%20and%20Design.pdf"> Head First Object-Oriented Analysis and Design</a>
-- <a href="https://www.freetechbooks.com/dont-panic-mobile-developers-guide-to-the-galaxy-17th-edition-t1343.html" alt=Don't Panic Mobile Developer's guide to the galaxy>Don't Panic Mobile Developer's guide to the galaxy</a>
+- <a href="https://www.freetechbooks.com/dont-panic-mobile-developers-guide-to-the-galaxy-17th-edition-t1343.html" alt="Don't Panic Mobile Developer's guide to the galaxy">Don't Panic Mobile Developer's guide to the galaxy</a>
 - <a href="https://www.syncfusion.com/succinctly-free-ebooks/nodejs" alt="Node.Js Succintly">Node.js Succintly</a>
 - <a href="https://eloquentjavascript.net/" alt="Eloquent Javascript">Eloquent Javascript</a>
 - <a href="https://archive.org/details/2018LearnProgramming">Learn Programming: Your Guided Tour Through the Programming Jungle</a>
